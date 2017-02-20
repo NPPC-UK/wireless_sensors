@@ -1,0 +1,5 @@
+[db_connect]
+host = host
+user = user
+password = password
+schema = schema
